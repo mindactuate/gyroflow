@@ -15,6 +15,7 @@ test_clips/*
 !camera_presets/*.json
 !camera_presets/*/*.json
 !media/*.png
+!media/tut/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

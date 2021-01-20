@@ -8,6 +8,10 @@ This is currently a work in progress project, but the goal is to use the gyro da
 
 The launcher containing all the utilities is available by executing `gyroflow.py` if all the dependencies are met. Otherwise a binary can be found over in [releases](https://github.com/ElvinC/gyroflow/releases). The current release is very outdated and another alpha executable will be available in the near future after a bit more work on blackbox support. Also, check out the wiki where there's some more information about the camera calibration and video stabilization process.
 
+## How to use?
+
+Please see a tutorial on how to use [here](README_HOW-TO-USE.md).
+
 ## Other things to check out:
 * [BlackboxToGPMF](https://github.com/Cleric-K/BlackboxToGPMF/tree/gui) by Cleric-K and Attilafustos. Tool for adding GoPro metadata and blackbox data to non-GoPro cameras for use with Reelsteady GO. Initial discussion [here](https://github.com/ElvinC/gyroflow/issues/1).
 * [blackbox2gpmf](https://github.com/jaromeyer/blackbox2gpmf) by Jaromeyer. Tool for adding blackbox gyro data to Hero 7 files for Reelsteady Go.
